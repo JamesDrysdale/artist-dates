@@ -29,11 +29,11 @@ async function handleGenerateIdea() {
     try {
         const ideas = await fetchData(dataFilepath);
         let idea = generateRandomIdea(ideas);
-        console.log('Generated Idea: ', idea);
+        document.getElementById('displayIdea').textContent = idea;
     } catch (error) {
         console.error('Error generating idea: ', error);
     }
 }
 
-// Call function for testing
-handleGenerateIdea();
+// Attach event listener to the button
+document.getElementById('generateButton').addEventListener('click', handleGenerateIdea);
