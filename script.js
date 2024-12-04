@@ -2,7 +2,6 @@
 const dataFilepath = './artist-dates.json'
 
 function fetchData(dataFilepath) {
-    console.log(dataFilepath);
     return fetch(dataFilepath)
         .then((response) => {
             if (!response.ok) {
