@@ -10,5 +10,33 @@
     {
         "id": 3,
         "description": "Volunteer at an animal shelter, charity shop, food bank, local park or a museum."
+    },
+    {
+        "id": 4,
+        "description": "Visit the zoo and challenge yourself to capture unique and unexpected perspectives in your photos. Try zooming in on just a lion's mane, or focusing on the textures of a gorilla's knuckles. Don't miss a chance to capture the curve of a flamingo's neck or the playful splash of a penguin diving into water."
+    },
+    {
+        "id": 5,
+        "description": "Write out a list of 10 things you are grateful for – big and small. If you'd like an extra challenge set a timer and see how many things you can write down. Can you think of 200 things?"
+    },
+    {
+        "id": 6,
+        "description": "Go for a swim - if you're feeling brave how about some wild swimming?"
+    },
+    {
+        "id": 7,
+        "description": "Take a break and watch or listen to a comedy special that makes you laugh out loud. Whether it’s a stand-up performance by a well-loved comedian, a witty panel show, or a classic sketch series."
+    },
+    {
+        "id": 8,
+        "description": "Get a large piece of paper or card and create a family tree. If your own family doesn’t inspire you, invent a new one or use a beloved fictional family instead. Let your imagination run wild as you bring the branches of your tree to life!"
+    },
+    {
+        "id": 9,
+        "description": "Clear out the clutter by filling four large rubbish bags—two for donation items and two for rubbish—all while blasting some energising music to keep you motivated and in the zone!"
+    },
+    {
+        "id": 10,
+        "description": "Explore your local area by visiting a variety of shops you’ve never been to before. You might discover hidden gems, unique items, or simply enjoy the adventure of trying something new!"
     }
 ]
