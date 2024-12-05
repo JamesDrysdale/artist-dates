@@ -2,8 +2,8 @@
 /*
 Plugin Name: Random Artist Date Generator
 Description: A plugin that generates random artist date ideas.
-Version: 1.0
-Author: Your Name
+Version: 1.1
+Author: James Drysdale
 */
 
 if (!defined('ABSPATH')) {
