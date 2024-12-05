@@ -20,11 +20,16 @@ body {
 /* Section styling */
 section.idea-generator {
     background-color: var(--theme-palette-color-1);
-    padding: 2rem;
+    padding: 60px 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+}
+
+@media (max-width: 600px) {
+    section.idea-generator {
+        padding: 40px 15px;
+    }
 }
 
 /* Card styling */
