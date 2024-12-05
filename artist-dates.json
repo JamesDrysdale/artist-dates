@@ -1,42 +1,82 @@
 [
     {
         "id": 1,
-        "description": "Visit a library or bookstore and explore a collection of children’s books."
+        "description": "Dive into nostalgia by exploring a collection of children’s books at a library or bookstore. Relive the magic or discover new favourites!"
     },
     {
         "id": 2,
-        "description": "Pick up 5 different flavors of Ben & Jerry’s and enjoy an ice cream tasting party while binge-watching a few episodes of The Crown."
+        "description": "Host an ice cream tasting party with 5 different Ben & Jerry’s flavours, paired with a binge-watch of a regal series like The Crown or your favourite comfort show."
     },
     {
         "id": 3,
-        "description": "Volunteer at an animal shelter, charity shop, food bank, local park or a museum."
+        "description": "Give back to your community by volunteering at an animal shelter, charity shop, food bank, local park, or museum. It’s rewarding and inspiring!"
     },
     {
         "id": 4,
-        "description": "Visit the zoo and challenge yourself to capture unique and unexpected perspectives in your photos. Try zooming in on just a lion's mane, or focusing on the textures of a gorilla's knuckles. Don't miss a chance to capture the curve of a flamingo's neck or the playful splash of a penguin diving into water."
+        "description": "Challenge your creativity at the zoo by capturing unique photos: zoom in on a lion’s mane, highlight the texture of a gorilla’s knuckles, or snap the elegant curve of a flamingo’s neck."
     },
     {
         "id": 5,
-        "description": "Write out a list of 10 things you are grateful for – big and small. If you'd like an extra challenge set a timer and see how many things you can write down. Can you think of 200 things?"
+        "description": "List 10 things you’re grateful for, from big achievements to small joys. Ready for a challenge? Set a timer and aim for 100 or more!"
     },
     {
         "id": 6,
-        "description": "Go for a swim - if you're feeling brave how about some wild swimming?"
+        "description": "Take a refreshing swim, whether at your local pool or a wild swimming spot. Bonus points if you go for an invigorating outdoor plunge!"
     },
     {
         "id": 7,
-        "description": "Take a break and watch or listen to a comedy special that makes you laugh out loud. Whether it’s a stand-up performance by a well-loved comedian, a witty panel show, or a classic sketch series."
+        "description": "Boost your mood with laughter by watching a comedy special, a witty panel show, or your favourite sketch series. Let the giggles flow!"
     },
     {
         "id": 8,
-        "description": "Get a large piece of paper or card and create a family tree. If your own family doesn’t inspire you, invent a new one or use a beloved fictional family instead. Let your imagination run wild as you bring the branches of your tree to life!"
+        "description": "Create a family tree on a big sheet of paper. Include your relatives, imagine a fictional family, or map out the connections of your favourite characters."
     },
     {
         "id": 9,
-        "description": "Clear out the clutter by filling four large rubbish bags—two for donation items and two for rubbish—all while blasting some energising music to keep you motivated and in the zone!"
+        "description": "Declutter your space by filling four large bags: two for donations and two for rubbish. Pump up the music and turn it into a decluttering dance party!"
     },
     {
         "id": 10,
-        "description": "Explore your local area by visiting a variety of shops you’ve never been to before. You might discover hidden gems, unique items, or simply enjoy the adventure of trying something new!"
+        "description": "Be a tourist in your own town! Explore local shops you’ve never visited before. You might uncover hidden gems or find unexpected treasures."
+    },
+    {
+        "id": 11,
+        "description": "Plan a colour-themed day: dress in one colour, eat foods of the same hue, and create art inspired by it. Let the colour guide your creativity!"
+    },
+    {
+        "id": 12,
+        "description": "Revisit an old hobby you loved but haven’t done in a while. Dust off your knitting needles, dig out that camera, or pick up that long-forgotten sketchbook."
+    },
+    {
+        "id": 13,
+        "description": "Take a mini road trip to a nearby town or village you’ve never visited before. Explore, take photos, and grab a snack from a local café!"
+    },
+    {
+        "id": 14,
+        "description": "Cook or bake something new and adventurous! Try a recipe from a different culture or put a twist on a classic dish you love."
+    },
+    {
+        "id": 15,
+        "description": "Have a picnic—but with a twist! Host it indoors with a blanket on the floor, or create a themed menu to make it extra special."
+    },
+    {
+        "id": 16,
+        "description": "Visit a local art gallery or museum and spend extra time observing a single piece of art. Write down what you see, feel, and imagine about it."
+    },
+    {
+        "id": 17,
+        "description": "Learn a quick new skill online, like origami, calligraphy, or a simple dance move. Celebrate the joy of learning something new!"
+    },
+    {
+        "id": 18,
+        "description": "Go stargazing in your backyard or a nearby dark-sky location. Bring a blanket and some hot chocolate for a cozy celestial experience."
+    },
+    {
+        "id": 19,
+        "description": "Write a letter to your future self. Reflect on your current dreams, challenges, and joys. Seal it away and set a date to open it later."
+    },
+    {
+        "id": 20,
+        "description": "Build a vision board with magazine cut-outs, photos, and drawings that represent your dreams and goals. Let it inspire you daily!"
     }
 ]
