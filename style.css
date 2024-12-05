@@ -1,0 +1,123 @@
+/* Variables defined for testing purposes */
+:root {
+    --theme-palette-color-1: #4B0082;
+    /* Section background, headers, button hover background */
+    --theme-palette-color-7: #FFFFFF;
+    /* Card background, button text hover */
+    --theme-palette-color-4: #1D1D35;
+    /* Normal paragraph text, button text */
+    --theme-palette-color-3: #FFCA28;
+    /* Button background */
+}
+
+/* Reset margins, paddings, and box-sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ensure HTML and body take up the full viewport height and width */
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* Remove extra margin from the body */
+body {
+    margin: 0;
+}
+
+/* Section styling */
+section.idea-generator {
+    background-color: var(--theme-palette-color-1);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Card styling */
+.card {
+    width: 94%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1.6rem;
+    border-radius: 10px;
+    background-color: var(--theme-palette-color-7);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: var(--theme-palette-color-4);
+}
+
+/* Header styling */
+.card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--theme-palette-color-1);
+}
+
+/* Button styling */
+.card button {
+    padding: 0.75rem 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--theme-palette-color-3);
+    /* Default background */
+    color: var(--theme-palette-color-4);
+    /* Default text color */
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    outline: none;
+}
+
+.card button:hover {
+    background-color: var(--theme-palette-color-1);
+    /* Hover background */
+    color: var(--theme-palette-color-7);
+    /* Hover text color */
+}
+
+/* Disable hover effect for touch devices */
+@media (hover: none) {
+    .card button:hover {
+        background-color: var(--theme-palette-color-3);
+        /* Default background */
+        color: var(--theme-palette-color-4);
+        /* Default text color */
+    }
+}
+
+.card button:active {
+    background-color: var(--theme-palette-color-3);
+    /* Same as default background */
+    color: var(--theme-palette-color-4);
+    /* Same as default text color */
+}
+
+/* Paragraph styling */
+.card p {
+    margin-top: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Responsive Design: Tablet and Larger Screens */
+@media (min-width: 768px) {
+    .card {
+        width: 70%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .card {
+        width: 60%;
+        max-width: 800px;
+    }
+}
