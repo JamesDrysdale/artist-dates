@@ -1,37 +1,36 @@
 // Fetch and log JSON data
-const dataFilepath = './artist-dates.json';
-
-function fetchData(dataFilepath) {
-    return fetch(dataFilepath)
-        .then((response) => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
-        })
-        .catch((error) => {
-            console.error('Error fetching JSON:', error);
-            throw error;
-        });
+async function fetchData() {
+    try {
+        const response = await fetch(radgData.jsonUrl);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        return data; // Return the fetched data
+    } catch (error) {
+        console.error('Error fetching JSON:', error);
+        throw error; // Rethrow to handle it in other functions
+    }
 }
 
-// Randonly Select an Idea
-
+// Randomly Select an Idea
 function generateRandomIdea(ideas) {
-    if (!ideas || ideas.length === 0) return "There are no ideas available right now, please try again later.";
+    if (!ideas || ideas.length === 0) {
+        return "There are no ideas available right now, please try again later.";
+    }
     const randomIndex = Math.floor(Math.random() * ideas.length);
     return ideas[randomIndex].description;
 }
 
 // Fetch and Generate Idea
-
 async function handleGenerateIdea() {
     try {
-        const ideas = await fetchData(dataFilepath);
-        let idea = generateRandomIdea(ideas);
-        document.getElementById('displayIdea').textContent = idea;
+        const ideas = await fetchData(); // Use fetchData to get ideas
+        const idea = generateRandomIdea(ideas);
+        document.getElementById('displayIdea').textContent = idea; // Update paragraph
     } catch (error) {
         console.error('Error generating idea: ', error);
+        document.getElementById('displayIdea').textContent = 'Something went wrong. Please try again!';
     }
 }
 

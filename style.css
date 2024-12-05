@@ -1,15 +1,3 @@
-/* Variables defined for testing purposes */
-:root {
-    --theme-palette-color-1: #4B0082;
-    /* Section background, headers, button hover background */
-    --theme-palette-color-7: #FFFFFF;
-    /* Card background, button text hover */
-    --theme-palette-color-4: #1D1D35;
-    /* Normal paragraph text, button text */
-    --theme-palette-color-3: #FFCA28;
-    /* Button background */
-}
-
 /* Reset margins, paddings, and box-sizing */
 * {
     margin: 0;
