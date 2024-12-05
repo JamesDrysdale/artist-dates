@@ -78,5 +78,165 @@
     {
         "id": 20,
         "description": "Build a vision board with magazine cut-outs, photos, and drawings that represent your dreams and goals. Let it inspire you daily!"
+    },
+    {
+        "id": 21,
+        "description": "Sketch your favorite local landmark using only geometric shapes."
+    },
+    {
+        "id": 22,
+        "description": "Visit a local market and create quick sketches of the produce and people shopping."
+    },
+    {
+        "id": 23,
+        "description": "Take a walk in nature and gather leaves or flowers to press and use in a collage."
+    },
+    {
+        "id": 24,
+        "description": "Write and illustrate a short, whimsical story about an imaginary creature you invent."
+    },
+    {
+        "id": 25,
+        "description": "Visit a coffee shop and draw the cups, pastries, and people around you."
+    },
+    {
+        "id": 26,
+        "description": "Create a blind contour drawing of your pet or a favorite animal photo."
+    },
+    {
+        "id": 27,
+        "description": "Recreate a famous painting using items from around your home."
+    },
+    {
+        "id": 28,
+        "description": "Walk around your neighborhood and photograph interesting textures for a mood board."
+    },
+    {
+        "id": 29,
+        "description": "Pick a color palette and create a series of small abstract paintings or sketches."
+    },
+    {
+        "id": 30,
+        "description": "Attend a free virtual art workshop or webinar for a fresh perspective."
+    },
+    {
+        "id": 31,
+        "description": "Visit a botanical garden and focus on drawing or photographing unusual plants."
+    },
+    {
+        "id": 32,
+        "description": "Spend an afternoon cutting out images from old magazines to create a vision board."
+    },
+    {
+        "id": 33,
+        "description": "Revisit a childhood memory and create an artwork inspired by it."
+    },
+    {
+        "id": 34,
+        "description": "Go to a bookstore and pick a random art or photography book to study."
+    },
+    {
+        "id": 35,
+        "description": "Create a monochromatic artwork using only different shades of one color."
+    },
+    {
+        "id": 36,
+        "description": "Draw or paint while listening to a genre of music you rarely listen to."
+    },
+    {
+        "id": 37,
+        "description": "Find a random object in your home and create a study focusing on its textures and shadows."
+    },
+    {
+        "id": 38,
+        "description": "Visit a thrift store and find a unique item to inspire your next piece of art."
+    },
+    {
+        "id": 39,
+        "description": "Spend the day experimenting with a new medium you’ve never tried before."
+    },
+    {
+        "id": 40,
+        "description": "Make an artwork inspired by your favorite movie or TV show scene."
+    },
+    {
+        "id": 41,
+        "description": "Visit a cemetery and sketch the most intricate or unusual gravestones, imagining the stories behind them."
+    },
+    {
+        "id": 42,
+        "description": "Visit an antique shop and create a fictional backstory for the most interesting object you find."
+    },
+    {
+        "id": 43,
+        "description": "Spend an afternoon stargazing and sketch what you imagine the constellations might represent beyond their usual meanings."
+    },
+    {
+        "id": 44,
+        "description": "Go to a public space and create quick character sketches or notes based on overheard conversations (without being intrusive!)."
+    },
+    {
+        "id": 45,
+        "description": "Find a location with a public piano or instrument and improvise music inspired by the setting."
+    },
+    {
+        "id": 46,
+        "description": "Visit an animal sanctuary or petting zoo and create gesture drawings of the animals in motion."
+    },
+    {
+        "id": 47,
+        "description": "Spend a day trying out an unconventional art material, like coffee, mud, or flower petals, to create something unique."
+    },
+    {
+        "id": 48,
+        "description": "Attend a local trivia night and use the themes or questions as prompts for a creative project."
+    },
+    {
+        "id": 49,
+        "description": "Sign up for a community walking tour or ghost tour and capture your experience through notes and quick sketches."
+    },
+    {
+        "id": 50,
+        "description": "Create a ‘treasure map’ of a local park or area, marking places of personal significance or things you find intriguing."
+    },
+    {
+        "id": 51,
+        "description": "Create a bouquet using shop-bought flowers, wildflowers, or blooms from your garden. Use it for still life studies or gift it to a neighbour."
+    },
+    {
+        "id": 52,
+        "description": "Offer to pet-sit for someone and use the opportunity to observe, photograph, or sketch the animal’s personality and quirks."
+    },
+    {
+        "id": 53,
+        "description": "Attend a local theatre production, then write or sketch a creative response inspired by the performance."
+    },
+    {
+        "id": 54,
+        "description": "Visit a vintage clothing store and assemble a quirky outfit. Use it as inspiration for character design or storytelling."
+    },
+    {
+        "id": 55,
+        "description": "Spend an afternoon at a public library, browsing random sections you wouldn’t normally explore, and sketch or write about what you discover."
+    },
+    {
+        "id": 56,
+        "description": "Go birdwatching in your local area, taking notes or sketching the different species and their behaviours."
+    },
+    {
+        "id": 57,
+        "description": "Host a mini film festival at home, choosing movies from a genre or country you rarely watch, and create art inspired by the visuals."
+    },
+    {
+        "id": 58,
+        "description": "Take a pottery or ceramics class to create something functional and artistic with your hands."
+    },
+    {
+        "id": 59,
+        "description": "Walk through your local area at sunset or sunrise and photograph the changing light and shadows."
+    },
+    {
+        "id": 60,
+        "description": "Attend a live storytelling or poetry slam event and reflect on the stories through sketches or journaling."
     }
 ]
